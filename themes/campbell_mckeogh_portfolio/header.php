@@ -40,6 +40,12 @@
     <link type="text/css" title="blue" rel="alternate stylesheet"  href="../campbell_portfolio_underscores/style_blue.css" id="theme_css1" />
     <link type="text/css" title="red" rel="alternate stylesheet" href="../campbell_portfolio_underscores/style_red.css" id="theme_css2" />
     <link type="text/css" title="yellow" rel="alternate stylesheet" href="../campbell_portfolio_underscores/style_yellow.css" id="theme_css3" />
+    <script>
+        (function(h,e,a,t,m,p) {
+            m=e.createElement(a);m.async=!0;m.src=t;
+            p=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);
+        })(window,document,'script','https://u.heatmap.it/log.js');
+    </script>
 </head>
 
 <body <?php body_class(); ?>>
