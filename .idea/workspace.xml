@@ -12,17 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/campbell_mckeogh_portfolio/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,7 +118,7 @@
       <workItem from="1536640756368" duration="5000" />
       <workItem from="1536641137904" duration="178000" />
       <workItem from="1536644485082" duration="408000" />
-      <workItem from="1536645578836" duration="786000" />
+      <workItem from="1536645578836" duration="856000" />
     </task>
     <task id="LOCAL-00001" summary="Added heatmapjs">
       <created>1536646100774</created>
@@ -137,11 +127,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536646100774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added heatmapjs">
+      <created>1536646424243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536646424243</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2066000" />
+    <option name="totallyTimeSpent" value="2136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="100" y="87" width="1280" height="643" extended-state="0" />
@@ -176,6 +173,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Added heatmapjs" />
     <option name="LAST_COMMIT_MESSAGE" value="Added heatmapjs" />
   </component>
