@@ -37,9 +37,7 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 
 	<?php wp_head(); ?>
-    <link type="text/css" title="blue" rel="alternate stylesheet"  href="../campbell_portfolio_underscores/style_blue.css" id="theme_css1" />
-    <link type="text/css" title="red" rel="alternate stylesheet" href="../campbell_portfolio_underscores/style_red.css" id="theme_css2" />
-    <link type="text/css" title="yellow" rel="alternate stylesheet" href="../campbell_portfolio_underscores/style_yellow.css" id="theme_css3" />
+    
     <script>
         (function(h,e,a,t,m,p) {
             m=e.createElement(a);m.async=!0;m.src=t;
